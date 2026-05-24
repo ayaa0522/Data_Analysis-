@@ -1,4 +1,4 @@
-# Data_Analysis-
+#E-commerce Data_Analysis-Prpject
 Project overview:
 This project analyzes an e-commerce sales dataset containing 34,500 transactions between 2023 and 2025.The main goal was to explore customer behavior, identify business problems, discover sales patterns, and generate actionable insights to improve profitability and operational performance.
 
